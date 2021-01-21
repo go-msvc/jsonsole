@@ -86,6 +86,8 @@ github.com/go-msvc/errors v0.0.0-20200923051340-b430f75e4310 h1:twnK1V6u95Cp930o
 github.com/go-msvc/errors v0.0.0-20200923051340-b430f75e4310/go.mod h1:Q+R/tD81ObsvmuMsZ2qxgTQ6IItj9C52nMFsnlXHiFs=
 github.com/go-msvc/logger v0.0.0-20200921071849-c0ba6025fb9f h1:7wguzrXWRHNeQfZ/LK5yW0Xag644j/XhKo44uoo+bJo=
 github.com/go-msvc/logger v0.0.0-20200921071849-c0ba6025fb9f/go.mod h1:1d92/t6HRCrlSxL48lANZEVbWhPyGbnugbxJ6xs5J9g=
+github.com/go-msvc/logger v0.0.0-20210121062433-1f3922644bec h1:Xrt+itPOlP+NsaQseWM00Fk0juNtqJZqCRZX8g6JV+w=
+github.com/go-msvc/logger v0.0.0-20210121062433-1f3922644bec/go.mod h1:2wVoA8rQtGPatj+5uHahKFExXJqcRHpq4an2UHuYidc=
 github.com/go-redis/redis v6.14.2+incompatible h1:UE9pLhzmWf+xHNmZsoccjXosPicuiNaInPgym8nzfg0=
 github.com/go-redis/redis v6.14.2+incompatible/go.mod h1:NAIEuMOZ/fxfXJIrKDQDz8wamY7mA7PouImQ2Jvg6kA=
 github.com/go-sql-driver/mysql v1.4.0/go.mod h1:zAC/RDZ24gD3HViQzih4MyKcchzm+sOG5ZlKdlhCg5w=
